@@ -11,6 +11,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit( 'Direct script access denied.' );
 }
 ?>
+<?php echo "masja";?>
 					<?php do_action( 'avada_after_main_content' ); ?>
 
 				</div>  <!-- fusion-row -->
